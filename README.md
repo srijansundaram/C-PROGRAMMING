@@ -20,7 +20,7 @@ Welcome to my C learning repository! 🎉 This repo contains all the C scripts, 
    ```bash
    git clone https://github.com/srijansundaram/C-PROGRAMMING.git
    cd C-PROGRAMMING
-````
+   ````
 
 2. Make sure you have GCC (compiler for C) installed.
 
