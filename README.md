@@ -46,6 +46,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 This repo is primarily for personal learning. However, feel free to fork it and use it for your own C practice!
 
-```
-
 
